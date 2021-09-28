@@ -34,6 +34,8 @@ body {
 }
 
 .main input {
+	background-color: #047857;
+	color: white;
 	display: block;
 	padding: 0.3rem 0.5rem;
 	border-radius: 0.5rem;
