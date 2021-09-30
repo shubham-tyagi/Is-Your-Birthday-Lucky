@@ -7,6 +7,7 @@ body {
 }
 .main {
 	padding: 2rem;
+	padding-bottom: 0rem;
 	max-width: 600px;
 	margin: 2rem auto;
 	border: 3px solid white;
@@ -68,6 +69,11 @@ body {
 .link-style {
 	text-decoration: none;
 	color: var(--off-white);
+}
+
+.privacy {
+	text-align: center;
+	margin-bottom: 0rem;
 }
 
 .footer {
